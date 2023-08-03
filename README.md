@@ -4,20 +4,6 @@ This is an AI enabled car parking system using OpenCV
 The Al-Enabled Car Parking System Utilizing OpenCV Technology is a cutting-edge project
 that aims to revolutionize the way parking lots operate. This system uses OpenCV, a
 popular computer vision library, to enable vehicles to park autonomously.
-
-✔ The OpenCV library analyzes the footage and identifies the available parking
-spaces in the lot.
-
-✔The system is designed to be highly accurate, and it can detect small and large
-vehicles, even in low-light conditions.
-
-# Tech stack :
-python,
-OpenCV,
-HTML,
-CSS,
-Flask
-
 # Screenshots
 ![Screenshot (22)](https://github.com/jyoshnz/SmartInternz/assets/116663727/26777f25-e3bf-4a6e-abb0-b32f39372892)
 
